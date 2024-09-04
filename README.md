@@ -31,9 +31,9 @@
         </div>
     </div>
     <script src="script.js"></script>
+            <link rel="stylesheet"type="text/css" href="dexamscore.css">
     <body>
-        <script type="text/javascript" src="folder/ResuitDexam.js"></script>
+        <script type="text/javascript" src="dexamscore.js"></script>
     </body>
-    <link rel="stylesheet"type="text/css" href="folder/ResuitDExam.css">
 </head>
    </html>
