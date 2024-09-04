@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +11,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="folder/Doc2_Page_1.png" alt="Description of photo" width="230">
+        <img src="![Doc2_Page_1](https://github.com/user-attachments/assets/56c8812f-4ef0-4adf-8c05-2a923769900f)" alt="Description of photo" width="230">
         <h1>គណនាពិន្ទុប្រឡងសញ្ញាបត្រមធ្យមសិក្សាបឋមភូមិ 
         <input type="text" placeholder="ភាសាខ្មែរ" id="K">
         <input type="text" placeholder="គណិតវិទ្យា" id="M">
